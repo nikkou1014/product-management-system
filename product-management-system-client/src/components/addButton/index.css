@@ -1,0 +1,14 @@
+#addButton {
+  min-width: 1.3rem;
+  max-width: 1.3rem;
+  height: 100%;
+  padding: 0 13.5px;
+}
+
+#minusButton {
+  min-width: 1.3rem;
+  max-width: 1.3rem;
+  height: 100%;
+  padding: 0 13.5px;
+  border-right: none;
+}
